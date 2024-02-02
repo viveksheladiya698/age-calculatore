@@ -1,0 +1,67 @@
+.main {
+    width: 900px;
+    margin: auto;
+    border-radius: 20px;
+    background-color: #F3FCFF;
+    text-align: center;
+}
+
+.struct {
+    height: 300px;
+    display: flex;
+    align-items: center;
+}
+
+.clock {
+    display: flex;
+    width: 800px;
+    margin: auto;
+    justify-content: space-between;
+}
+
+p {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-family: nirmala ui;
+}
+
+.main input {
+    width: 170px;
+    height: 40px;
+    border-radius: 10px;
+    font-family: roboto;
+    border: 1px solid grey;
+    font-size: 16px;
+}
+
+.butt {
+    background-color: #185ABC;
+    color: white;
+    border: none;
+    font-family: nirmala ui;
+    margin-bottom: 30px;
+}
+
+h1 {
+    text-align: center;
+    margin: 0px;
+    margin-top: 200px;
+    margin-bottom: 15px;
+    font-family: nirmala ui;
+}
+
+.info {
+    margin: 50px 0px 0px 30px;
+    font-family: nirmala ui;
+}
+
+.info table {
+    background-color: #F7F8F9;
+    padding: 20px;
+}
+
+.info input {
+    border: none;
+    outline: 0;
+}
